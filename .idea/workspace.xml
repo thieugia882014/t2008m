@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b2c5b70-037d-40d2-b032-0cf6ed7254f9" name="Default Changelist" comment="code len githud">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai2_9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai2_9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai7-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai7-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai7-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai7-4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai8-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai8-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai8-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai8-4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai8-5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai8-6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap5-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap5-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap5-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap5-4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap6-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap6-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap6-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap6-4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/btvn1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/btvn1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thihocky1_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thihocky1_2.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iRIqLnx1GeoNymdctz34pgIBs0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b2c5b70-037d-40d2-b032-0cf6ed7254f9" name="Default Changelist" comment="" />
+      <created>1601864168262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601864168262</updated>
+      <workItem from="1601864170258" duration="8588000" />
+      <workItem from="1601909555677" duration="123000" />
+      <workItem from="1601909845257" duration="42000" />
+      <workItem from="1601909970641" duration="60000" />
+      <workItem from="1601910860009" duration="681000" />
+      <workItem from="1602034581756" duration="1195000" />
+      <workItem from="1602035796205" duration="8902000" />
+      <workItem from="1602206663315" duration="12618000" />
+      <workItem from="1602320749464" duration="3743000" />
+      <workItem from="1602347486082" duration="425000" />
+    </task>
+    <task id="LOCAL-00001" summary="code len githud">
+      <created>1602035550385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602035550385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="code len githud">
+      <created>1602045867371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602045867371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="code len githud">
+      <created>1602347700723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602347700723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code len githud" />
+    <option name="LAST_COMMIT_MESSAGE" value="code len githud" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602041169744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602041169744" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602041597328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602041597328" />
+    <state x="593" y="314" key="Github.CreateGistDialog" timestamp="1602347761038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="314" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1602347761038" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602037115207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602037115207" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602037122884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602037122884" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602215376667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602215376667" />
+  </component>
+</project>

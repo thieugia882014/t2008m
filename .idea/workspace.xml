@@ -20,57 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2c5b70-037d-40d2-b032-0cf6ed7254f9" name="Default Changelist" comment="code len githud">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled10.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled5.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled6.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled7.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled8.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_9.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_9.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2_9.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2_9.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai7-1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai7-2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai7-3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai7-4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8-1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8-2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8-3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8-4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8-5.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8-6.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap5-1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap5-2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap5-3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap5-4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap6-1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap6-2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap6-3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap6-4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btvn1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btvn1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3-1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5-1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6-2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6-3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thihocky1_1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thihocky1_2.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +83,7 @@
       <workItem from="1602035796205" duration="8902000" />
       <workItem from="1602206663315" duration="12618000" />
       <workItem from="1602320749464" duration="3743000" />
-      <workItem from="1602347486082" duration="425000" />
+      <workItem from="1602347486082" duration="3076000" />
     </task>
     <task id="LOCAL-00001" summary="code len githud">
       <created>1602035550385</created>
@@ -154,7 +106,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602347700723</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="code len githud">
+      <created>1602347917933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602347917933</updated>
+    </task>
+    <task id="LOCAL-00005" summary="code len githud">
+      <created>1602347984466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602347984466</updated>
+    </task>
+    <task id="LOCAL-00006" summary="code len githud">
+      <created>1602348085768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602348085768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,10 +166,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602037115207" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602037122884">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602348087404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602037122884" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602348087404" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602215376667">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

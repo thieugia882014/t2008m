@@ -7,7 +7,7 @@ body {
     width: 800px;
     height: 900px;
     text-align: center;
-
+    margin: auto;
 }
 #a1{
     text-align: center;
@@ -15,8 +15,7 @@ body {
     width:800px;
     height:200px;
     float: none;
-    margin: 10px auto;
-
+    margin-bottom: 0;
 }
 #a2{
     text-align: center;
@@ -31,7 +30,16 @@ body {
 #a3{
     text-align: left;
     background-color: white;
-    width:550px;
+    width:520px;
     height:600px;
     float:right;
+}
+
+.content {
+    float: left;
+    padding: 0;
+    width: 798px;
+    height: 780px;
+    margin-bottom: 50px;
+    border: 1px solid #ccc;
 }

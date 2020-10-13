@@ -20,9 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2c5b70-037d-40d2-b032-0cf6ed7254f9" name="Default Changelist" comment="code len githud">
+      <change afterPath="$PROJECT_DIR$/img/117176621_941204102958225_7701525425303844137_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/120736776_716158835779003_2857333943341192215_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/34ca254e2df7c1d3669a64d66f610ddd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anh8.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -83,7 +94,12 @@
       <workItem from="1602035796205" duration="8902000" />
       <workItem from="1602206663315" duration="12618000" />
       <workItem from="1602320749464" duration="3743000" />
-      <workItem from="1602347486082" duration="3076000" />
+      <workItem from="1602347486082" duration="3732000" />
+      <workItem from="1602403595486" duration="754000" />
+      <workItem from="1602437448857" duration="380000" />
+      <workItem from="1602464628693" duration="8700000" />
+      <workItem from="1602557874478" duration="5593000" />
+      <workItem from="1602587149722" duration="2758000" />
     </task>
     <task id="LOCAL-00001" summary="code len githud">
       <created>1602035550385</created>
@@ -127,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602348085768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="code len githud">
+      <created>1602350811016</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602350811016</updated>
+    </task>
+    <task id="LOCAL-00008" summary="code len githud">
+      <created>1602559360808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602559360808</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,18 +188,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602041597328" />
-    <state x="593" y="314" key="Github.CreateGistDialog" timestamp="1602347761038">
+    <state x="593" y="314" key="Github.CreateGistDialog" timestamp="1602596592120">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="593" y="314" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1602347761038" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1602037115207">
+    <state x="593" y="314" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1602596592120" />
+    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1602560511180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602037115207" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602348087404">
+    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1602560511180" />
+    <state x="634" y="133" key="RollbackChangesDialog" timestamp="1602561197210">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602348087404" />
+    <state x="634" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602561197210" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602596659625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602596659625" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602559368408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602559368408" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602215376667">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

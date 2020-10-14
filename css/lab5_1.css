@@ -1,0 +1,19 @@
+.theking{
+    width: 250px;
+    padding: 5px 10px;
+    height: 25px;
+    background-color: whitesmoke;
+    margin: 10px;
+    border: none;
+    box-shadow: 0 0 3px black;
+    border-radius: 5px;
+
+    font-family: SansSerif;
+    font-size: 15px;
+    color: aquamarine;
+    text-align: left;
+}
+.theking:focus{
+    outline: none;
+    box-shadow: 0 0 3px darkred;
+}

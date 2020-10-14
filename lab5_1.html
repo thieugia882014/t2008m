@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>form</title>
+    <link rel="stylesheet" href="css/lab5_1.css">
+</head>
+<body>
+    <div class="page">
+        <form action="#" method="get">
+           <input class="theking" name="full_name" minlength="6" maxlength="16" type="text" placeholder="full name" required/>
+            <input class="theking" name="email" type="email" placeholder="enail" required/>
+            <input class="theking" name="password" type="password" placeholder="password"required/>
+            <input class="theking" name="age" type="number" placeholder="age" required/>
+            <input class="theking" name="birthday" type="date" placeholder="birthday" required/>
+            <input class="theking" name="mycolor" type="color" placeholder="my color" required/>
+            <input class="theking" name="price_range" type="range" min="0" max="100" required/>
+            <p>gioi tinh</p>
+           <label><input name="sex" value="nam" checked type="radio"/>nam</label>
+            <label><input name="sex" value="nu" type="radio"/>nu</label>
+            <p>
+                <label><input  required type="checkbox" name="confirn"/>toi da doc va chap nhan cac dieu khoan </label>
+            </p>
+            <p>thanh pho</p>
+            <select name="city">
+                <option value="hn">ha noi</option>
+                <option value="sg">sai gon</option>
+                <option value="dn">da nang</option>
+                <option value="hp">hai phong</option>
+            </select>
+            <p>mo ta</p>
+            <textarea name="comment" rows="10" cols="50" placeholder="viet nhan xet"></textarea>
+             <br/>
+            <button type="submit">gui</button>
+            <button type="button">gui</button>
+            <button type="reset">gui</button>
+        </form>
+    </div>
+</body>
+</html>

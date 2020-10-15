@@ -21,27 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9b2c5b70-037d-40d2-b032-0cf6ed7254f9" name="Default Changelist" comment="code len githud">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/103418492_718129345619322_2741820935164504059_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/117176621_941204102958225_7701525425303844137_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/120736776_716158835779003_2857333943341192215_o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/34ca254e2df7c1d3669a64d66f610ddd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/948199ef5a312f15e3f9e57faefb746b.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/CV Cookery.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/TheCVTemplates.com-CV-Template-Resume-Template-Cover-Letter-References-Word-Resume-Creative-Resume-Professional-Resume-Modern-Resume-Student-Resume-13-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/anh8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/son.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/son1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/son2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2/son3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab5_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lab5_1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -108,7 +89,8 @@
       <workItem from="1602464628693" duration="8700000" />
       <workItem from="1602557874478" duration="5593000" />
       <workItem from="1602587149722" duration="3239000" />
-      <workItem from="1602637683993" duration="6395000" />
+      <workItem from="1602637683993" duration="12289000" />
+      <workItem from="1602742138912" duration="2001000" />
     </task>
     <task id="LOCAL-00001" summary="code len githud">
       <created>1602035550385</created>
@@ -187,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602603935188</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="code len githud">
+      <created>1602644663078</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602644663078</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,10 +227,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602596659625" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602603938790">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602644666857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602603938790" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602644666857" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602215376667">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,0 +1,55 @@
+.Trangchu{
+    background-color: #FFFFFF;
+}
+.trangchu{
+    background-color: #0000A4;
+    width: 50%;
+    height: 1000px;
+    margin:auto;
+}
+.home{
+    float: left;
+    color: #FFFFFF;
+}
+
+.home1{
+    float: left;
+    color: #FFFFFF;
+    margin-left: 70px;
+    margin-top: 20px;
+    list-style: none;
+}
+.anh{
+    float: left;
+    width: 550px;
+    height: auto;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+}
+.anh img{
+    max-width: 100%;
+    padding: 10px 10px 10px 10px;
+}
+.bl{
+    width: 550px;
+    height: 600px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 350px;
+    left: 450px;
+}
+.c{
+    padding: 10px;
+}
+.c2 img{
+    max-width: 100%;
+}
+.d{
+    padding: 120px 10px 10px 10px;
+}
+
+.e img{
+    max-width: 100%;
+}

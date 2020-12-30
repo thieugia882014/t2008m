@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+}
+img{
+    max-width: 100%;
+}
+.grid-title{
+    font-size: 30px;
+    color: white;
+    background-color: deeppink;
+    padding: 10px 20px;
+}
+.item{
+    float: left;
+    width: 100%;
+    background-color: #f5f5f5;
+    margin: 15px 0;
+}
+.item .product-name{
+    font-size: 16px;
+    font-weight: 400;
+}
+.item .price{
+    font-size: 16px;
+}
+.item .add-to-cart{
+    float: left;
+    width: 100%;
+    color: #ffffff;
+    background-color: deeppink;
+    padding: 5px 10px;
+    font-size: 15px;
+    text-decoration: none;
+    transition: background-color 300ms;
+}
+.item .add-to-cart:hover{
+    background-color: mediumvioletred;
+}
+.item .star{
+    float: left;
+    width: 100%;
+    margin: 5px 0;
+}
+.star .star-box{
+    float: left;
+    width: 80px;
+    margin-left: calc((100% - 80px)/2);
+    height: 16px;
+    background-image: url("../img/star-off.png");
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+}
+.star-box .star-rate{
+    float: left;
+    height: 16px;
+    background-image: url("../img/star-on.png");
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+}
